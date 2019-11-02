@@ -3,7 +3,7 @@ This code use Laravel 5.8 and consoletvs/charts to generate product charts
 
 ## Generate products
 
-With artisan command is possible to generate new faker register.
+Using artisan command is possible to generate new faker register.
 
 ```bash
 php artisan faker:products {int}
